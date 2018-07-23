@@ -8,7 +8,7 @@ it('defines `greeting`', function() {
 
 var specialGuest = "Neil deGrasse Tyson"
 
-var greetSpecialGuest = "" + specialGuest + "!";
+var greetSpecialGuest = "Hello, " + specialGuest + "!";
 
 /*  NEXT ONE TO FIX
 
